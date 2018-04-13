@@ -1046,3 +1046,236 @@ LogInit: Object subsystem initialized
 [2018.04.12-08.20.09:386][ 60]LogHttp: Warning: 0000026CE8AAFA00: request failed, libcurl error: 6 (Couldn't resolve host name)
 [2018.04.12-08.20.09:386][ 60]LogHttp: Warning: 0000026CE8AAFA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2018.04.12-08.20.09:386][ 60]LogHttp: Warning: 0000026CE8AAFA00: libcurl info message cache 1 (Closing connection 38)
+[2018.04.12-08.22.09:843][421]LogHttp: Warning: 0000026CE8AAD600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.12-08.22.09:843][421]LogHttp: Warning: 0000026CE8AAD600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.12-08.22.09:843][421]LogHttp: Warning: 0000026CE8AAD600: libcurl info message cache 1 (Closing connection 39)
+[2018.04.12-08.24.46:989][888]LogInit: XAudio2 using 'Højttalere (C-Media USB Headphone Set  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-08.25.48:514][ 73]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{ce3e74a7-5b78-45bf-a4e6-fa7d2236125e} was removed. Shutting down audio device.
+[2018.04.12-08.25.48:514][ 73]LogInit: XAudio2 using 'Højttalere (C-Media USB Headphone Set  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-08.25.48:852][ 74]LogInit: XAudio2 using 'Højttalere (C-Media USB Headphone Set  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-08.41.34:372][895]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon_C:DefaultSceneRoot' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:311][114]LogMetaData: Removing '/Game/Blueprint/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Blueprints/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.45.16:957][114]LogSavePackage: Save=165.82ms
+[2018.04.12-08.45.16:958][114]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon096C39D04894C7E0059E59BDC725E6BE.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/BP_BaseWeapon.uasset'
+[2018.04.12-08.45.17:024][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/BP_BaseWeapon.uasset
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.06:941][ 58]LogMetaData: Removing '/Game/Blueprint/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprint/BP_BaseWeapon.PackageMetaData'
+[2018.04.12-08.46.07:126][ 58]LogSavePackage: Save=24.01ms
+[2018.04.12-08.46.07:126][ 58]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeaponA73320F44AF49ACAB01FD9A58E9DFCFB.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-08.46.07:134][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-08.48.56:569][194]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.12-08.48.57:074][194]LogSlate: Window 'Pick Structure' being destroyed
+[2018.04.12-08.49.14:037][312]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.12-08.49.17:380][356]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.12-08.49.26:780][568]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.12-08.51.00:411][379]LogMetaData: Removing '/Game/Blueprint/Weapons/FWeaponInfo.FWeaponInfo' ref from Metadata '/Game/Blueprint/Weapons/NewUserDefinedStruct.PackageMetaData'
+[2018.04.12-08.51.00:411][379]LogMetaData: Removing '/Game/Blueprint/Weapons/FWeaponInfo.FWeaponInfo:MemberVar_0_C3CD508143B0CC08D6335C8AC7F0A279' ref from Metadata '/Game/Blueprint/Weapons/NewUserDefinedStruct.PackageMetaData'
+[2018.04.12-08.51.00:531][379]LogSavePackage: Save=3.51ms
+[2018.04.12-08.51.00:531][379]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/FWeaponInfoD3E1D6B14293BAAC90BB0DBA5B70CCBA.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/FWeaponInfo.uasset'
+[2018.04.12-08.51.00:538][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/FWeaponInfo.uasset
+[2018.04.12-08.51.53:740][209]LogSlate: Took 0.068669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.12-08.52.49:011][796]LogSavePackage: Save=3.60ms
+[2018.04.12-08.52.49:011][796]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/FWeaponInfo5A30D21F4C5110754E7DF9B8F35E1944.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/FWeaponInfo.uasset'
+[2018.04.12-08.52.49:019][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/FWeaponInfo.uasset
+[2018.04.12-08.53.13:706][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.045
+[2018.04.12-08.53.13:740][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/WeaponFirstPerson] ([1] browsable assets)...
+[2018.04.12-08.53.13:791][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/WeaponFirstPerson.WeaponFirstPerson]
+[2018.04.12-08.53.13:791][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/WeaponFirstPerson]
+[2018.04.12-08.53.14:314][912]LogSavePackage: Save=444.30ms
+[2018.04.12-08.53.14:314][912]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/WeaponFirstPerson_Auto3271FA54D48A7EF6829D8FCB3E12800EA.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/FirstPersonBP/Blueprints/WeaponFirstPerson_Auto3.uasset'
+[2018.04.12-08.53.14:327][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/FirstPersonBP/Blueprints/WeaponFirstPerson_Auto3.uasset
+[2018.04.12-08.53.14:327][912]LogFileHelpers: Auto-saving content packages took 0.620
+[2018.04.12-08.54.14:324][258]LogSlate: Window 'Pick Structure' being destroyed
+[2018.04.12-08.54.46:892][684]LogSavePackage: Save=41.15ms
+[2018.04.12-08.54.46:892][684]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/WeaponTableB1BB339B459178F2145D7492C30A5801.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/WeaponTable.uasset'
+[2018.04.12-08.54.46:901][684]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/WeaponTable.uasset
+[2018.04.12-08.55.32:815][639]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_4.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.04.12-08.55.40:930][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.12-08.55.50:718][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.12-09.02.28:246][380]LogSavePackage: Save=14.10ms
+[2018.04.12-09.02.28:246][380]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/WeaponTable5039D7284E6DCB5F9EB36D95079A63DE.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/WeaponTable.uasset'
+[2018.04.12-09.02.28:254][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/WeaponTable.uasset
+[2018.04.12-09.02.38:930][439]LogSavePackage: Save=48.34ms
+[2018.04.12-09.02.38:930][439]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/MapTais01FB3B9E46D901F335B3BEBB4A10BD3C.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Maps/MapTais.umap'
+[2018.04.12-09.02.38:943][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Maps/MapTais.umap
+[2018.04.12-09.02.39:043][439]LogFileHelpers: Saving map 'MapTais' took 7.466
+[2018.04.12-09.02.39:217][439]LogSavePackage: Save=85.97ms
+[2018.04.12-09.02.39:217][439]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/WeaponFirstPersonD32BDE7E41A10A01DD79E9B5E3B8CE7C.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/FirstPersonBP/Blueprints/WeaponFirstPerson.uasset'
+[2018.04.12-09.02.39:225][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/FirstPersonBP/Blueprints/WeaponFirstPerson.uasset
+[2018.04.12-09.08.14:108][ 28]LogMetaData: Removing '/Game/Blueprint/Weapons/IDamage.SKEL_IDamage_C' ref from Metadata '/Game/Blueprint/Weapons/NewInterface.PackageMetaData'
+[2018.04.12-09.08.14:108][ 28]LogMetaData: Removing '/Game/Blueprint/Weapons/IDamage.IDamage_C' ref from Metadata '/Game/Blueprint/Weapons/NewInterface.PackageMetaData'
+[2018.04.12-09.08.14:131][ 28]LogSavePackage: Save=3.46ms
+[2018.04.12-09.08.14:131][ 28]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/IDamage9500743B4D9AF1074424BEAC023ABAD7.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/IDamage.uasset'
+[2018.04.12-09.08.14:138][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/IDamage.uasset
+[2018.04.12-09.12.32:148][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.039
+[2018.04.12-09.12.32:157][  4]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/IDamage] ([1] browsable assets)...
+[2018.04.12-09.12.32:157][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/IDamage]
+[2018.04.12-09.12.32:243][  4]LogSavePackage: Save=6.85ms
+[2018.04.12-09.12.32:243][  4]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/IDamage_Auto467462F5D4589E39020BE91880DC754DE.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/IDamage_Auto4.uasset'
+[2018.04.12-09.12.32:249][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/IDamage_Auto4.uasset
+[2018.04.12-09.12.32:249][  4]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.04.12-09.17.35:261][594]BlueprintLog: New page: Compile IDamage
+[2018.04.12-09.17.36:172][603]LogSavePackage: Save=34.92ms
+[2018.04.12-09.17.36:172][603]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/IDamageB4552D204FFE34C2409653833DB902E9.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/IDamage.uasset'
+[2018.04.12-09.17.36:182][603]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/IDamage.uasset
+[2018.04.12-09.33.58:282][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.039
+[2018.04.12-09.33.58:286][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-09.33.58:286][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-09.33.58:418][791]LogSavePackage: Save=64.60ms
+[2018.04.12-09.33.58:418][791]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto5EF6CD7FD46B4E2EC788465BC3DF9E685.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto5.uasset'
+[2018.04.12-09.33.58:431][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto5.uasset
+[2018.04.12-09.33.58:431][791]LogFileHelpers: Auto-saving content packages took 0.148
+[2018.04.12-09.34.47:085][487]LogClass: Warning: Property WeaponInDateTable of WeaponInDateTable has a struct type mismatch (tag FWeaponInfo != prop DataTableRowHandle) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.04.12-09.34.55:726][621]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-09.34.58:404][642]LogSavePackage: Save=8.14ms
+[2018.04.12-09.34.58:404][642]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon828FC89E441A96E8628856AB55148AC2.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.34.58:411][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-09.36.19:943][485]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-09.36.20:991][497]LogSavePackage: Save=28.33ms
+[2018.04.12-09.36.20:991][497]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon84BE2FE140BC1C19AF8229937AADF8D5.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.36.21:004][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-09.36.50:926][ 89]LogClass: Warning: Type mismatch in IsInAttack of SKEL_BP_BaseWeapon_C - Previous (StructProperty) Current(BoolProperty) for package:  FObjectReader
+[2018.04.12-09.36.54:038][196]LogClass: Warning: Type mismatch in isUsingSockets of SKEL_BP_BaseWeapon_C - Previous (StructProperty) Current(BoolProperty) for package:  FObjectReader
+[2018.04.12-09.37.53:941][984]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-09.37.57:186][ 36]LogSavePackage: Save=9.09ms
+[2018.04.12-09.37.57:186][ 36]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon06BCAA604AFCD6DA0637AFA1516AFA8F.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.37.57:195][ 36]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-09.38.50:160][731]LogSavePackage: Save=10.13ms
+[2018.04.12-09.38.50:160][731]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon60BEF94244A4C460591FA4B590A73F7E.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.38.50:169][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-09.38.50:826][760]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-09.38.52:179][796]LogSavePackage: Save=12.17ms
+[2018.04.12-09.38.52:179][796]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeaponE6EF281F4E34A33D8FAE7D80D8652998.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.38.52:184][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-09.47.11:954][732]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{ce3e74a7-5b78-45bf-a4e6-fa7d2236125e} was removed. Shutting down audio device.
+[2018.04.12-09.47.11:954][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.12-09.47.12:133][733]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.12-09.47.12:834][751]LogInit: XAudio2 using 'Højttalere (C-Media USB Headphone Set  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.12-09.47.33:024][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.065
+[2018.04.12-09.47.33:027][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-09.47.33:027][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-09.47.33:050][220]LogSavePackage: Save=11.20ms
+[2018.04.12-09.47.33:050][220]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto6F99658BC4D3EEE278CD5B4AF1BBB3C21.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto6.uasset'
+[2018.04.12-09.47.33:054][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto6.uasset
+[2018.04.12-09.47.33:054][220]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.04.12-09.50.34:058][361]LogSavePackage: Save=29.88ms
+[2018.04.12-09.50.34:058][361]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon5C731A41438B7D35415C66A9CE906F42.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-09.50.34:066][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-10.04.59:221][283]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-10.05.00:079][344]LogSavePackage: Save=15.76ms
+[2018.04.12-10.05.00:079][344]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon0623C36C4A9307850EE8C4B29F2C4A9C.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-10.05.00:087][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-10.49.07:702][599]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{ce3e74a7-5b78-45bf-a4e6-fa7d2236125e} was removed. Shutting down audio device.
+[2018.04.12-10.49.07:702][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.12-12.05.56:919][650]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.04.12-12.15.57:597][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.082
+[2018.04.12-12.15.57:602][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-12.15.57:602][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-12.15.57:698][871]LogSavePackage: Save=84.03ms
+[2018.04.12-12.15.57:698][871]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto71B3FA224451C230FD3F1F6BD14B48A34.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto7.uasset'
+[2018.04.12-12.15.57:704][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto7.uasset
+[2018.04.12-12.15.57:704][871]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.04.12-12.22.39:241][792]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-12.22.40:010][840]LogSavePackage: Save=20.24ms
+[2018.04.12-12.22.40:010][840]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon6E0569E84E5FEEEAAA305690816E25E3.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-12.22.40:019][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-13.51.27:200][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.033
+[2018.04.12-13.51.27:205][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-13.51.27:205][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-13.51.27:279][ 84]LogSavePackage: Save=38.93ms
+[2018.04.12-13.51.27:279][ 84]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto8EEABEC1241E0DD0899EEA1A85CFC7ACD.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto8.uasset'
+[2018.04.12-13.51.27:283][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto8.uasset
+[2018.04.12-13.51.27:283][ 84]LogFileHelpers: Auto-saving content packages took 0.082
+[2018.04.12-14.01.27:634][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.030
+[2018.04.12-14.01.27:639][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-14.01.27:639][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-14.01.27:671][539]LogSavePackage: Save=20.55ms
+[2018.04.12-14.01.27:671][539]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto9FC5EFC404572D77DB0138D96322328A5.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto9.uasset'
+[2018.04.12-14.01.27:675][539]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto9.uasset
+[2018.04.12-14.01.27:675][539]LogFileHelpers: Auto-saving content packages took 0.040
+[2018.04.12-14.11.28:285][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.033
+[2018.04.12-14.11.28:289][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-14.11.28:289][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-14.11.28:330][635]LogSavePackage: Save=27.56ms
+[2018.04.12-14.11.28:330][635]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto007AB1C42428ACE80650EC793EC9A218E.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto0.uasset'
+[2018.04.12-14.11.28:334][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto0.uasset
+[2018.04.12-14.11.28:334][635]LogFileHelpers: Auto-saving content packages took 0.048
+[2018.04.12-15.00.38:231][869]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.051
+[2018.04.12-15.00.38:236][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-15.00.38:236][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-15.00.38:313][869]LogSavePackage: Save=64.29ms
+[2018.04.12-15.00.38:313][869]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto189D1AE00489B6DF2DB36FE8ED8858959.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto1.uasset'
+[2018.04.12-15.00.38:317][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto1.uasset
+[2018.04.12-15.00.38:317][869]LogFileHelpers: Auto-saving content packages took 0.085
+[2018.04.12-15.10.44:480][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.036
+[2018.04.12-15.10.44:485][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.12-15.10.44:486][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.12-15.10.44:532][181]LogSavePackage: Save=33.79ms
+[2018.04.12-15.10.44:532][181]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto2E4BC9F5D40FD297890FCD386A5A5005E.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto2.uasset'
+[2018.04.12-15.10.44:536][181]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto2.uasset
+[2018.04.12-15.10.44:537][181]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.04.12-15.12.54:621][276]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-15.12.55:555][311]LogSavePackage: Save=35.16ms
+[2018.04.12-15.12.55:555][311]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon6E0201B1426C93CE9E4B46918F6CD452.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-15.12.55:564][311]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.12-15.17.28:654][827]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.12-15.17.29:425][854]LogSavePackage: Save=31.75ms
+[2018.04.12-15.17.29:425][854]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeaponC99A68F240AA50E55A0809BDA3ACC48A.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.12-15.17.29:434][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-08.54.36:635][820]LogHttp: Warning: 0000026CC24A0E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-08.54.36:636][820]LogHttp: Warning: 0000026CC24A0E80: libcurl info message cache 0 (Connection 100 seems to be dead!)
+[2018.04.13-08.54.36:636][820]LogHttp: Warning: 0000026CC24A0E80: libcurl info message cache 1 (Closing connection 100)
+[2018.04.13-08.54.36:636][820]LogHttp: Warning: 0000026CC24A0E80: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-08.54.36:636][820]LogHttp: Warning: 0000026CC24A0E80: libcurl info message cache 3 (Closing connection 101)
+[2018.04.13-08.56.28:334][154]LogInit: XAudio2 using 'Højttalere (C-Media USB Headphone Set  )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.13-09.02.54:821][497]LogEditorTransaction: Undo Create Reroute Node
+[2018.04.13-09.04.06:318][321]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.13-09.04.07:378][358]LogSavePackage: Save=37.60ms
+[2018.04.13-09.04.07:378][358]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon98F660024DD4E276D6CC5D91C495670A.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.04.07:403][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.07.00:335][736]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.13-09.07.01:138][758]LogSavePackage: Save=104.20ms
+[2018.04.13-09.07.01:139][758]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon1EFCBE804171D77D5CE89C9C14E5A87C.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.07.01:147][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.07.43:851][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapTais' took 0.026
+[2018.04.13-09.07.43:856][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Weapons/BP_BaseWeapon] ([1] browsable assets)...
+[2018.04.13-09.07.43:856][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapons/BP_BaseWeapon]
+[2018.04.13-09.07.43:907][689]LogSavePackage: Save=43.51ms
+[2018.04.13-09.07.43:908][689]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon_Auto384AA9D80464671722947C8A5D7FEF304.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto3.uasset'
+[2018.04.13-09.07.43:912][689]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/Autosaves/Game/Blueprint/Weapons/BP_BaseWeapon_Auto3.uasset
+[2018.04.13-09.07.43:912][689]LogFileHelpers: Auto-saving content packages took 0.060
+[2018.04.13-09.08.18:566][630]LogSavePackage: Save=44.43ms
+[2018.04.13-09.08.18:566][630]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeaponB0EB86D943A167947D1C89AE251C2F8F.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.08.18:576][630]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.10.04:533][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.13-09.10.12:584][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-09.10.12:951][295]LogSavePackage: Save=123.78ms
+[2018.04.13-09.10.12:951][295]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/FirstPersonCharacter0224B2E0413369C51B1CE08B102E15AD.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.04.13-09.10.12:959][295]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.04.13-09.10.13:334][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.13-09.10.13:413][315]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.04.13-09.13.29:873][911]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.13-09.13.30:821][943]LogSavePackage: Save=44.16ms
+[2018.04.13-09.13.30:821][943]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon170A3DB84FC2A3A2F9ADE59F0FCF00C5.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.13.30:828][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.14.25:123][303]BlueprintLog: New page: Compile BP_BaseWeapon
+[2018.04.13-09.14.25:867][327]LogSavePackage: Save=46.77ms
+[2018.04.13-09.14.25:867][327]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeapon32D607A04A63374996DD118137948E31.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.14.25:876][327]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.15.06:119][724]LogSavePackage: Save=46.73ms
+[2018.04.13-09.15.06:119][724]LogSavePackage: Moving '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Saved/BP_BaseWeaponBF1E54BB4EF3E1CE125FDA943595B793.tmp' to '../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset'
+[2018.04.13-09.15.06:124][724]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/taisb/Desktop/grenaa dania/4 semester/unreal fag/UnrealEksamen/Dung/Content/Blueprint/Weapons/BP_BaseWeapon.uasset
+[2018.04.13-09.15.15:307][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
